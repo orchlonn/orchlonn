@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <h5 align="center">
 <a align="center" href="https://www.linkedin.com/in/orchlonc/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
 <a href="https://www.leetcode.com/orchllnz" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
