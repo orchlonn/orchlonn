@@ -3,18 +3,19 @@
 </h1>
 
 <div align="center">
-- 🎓 <b>I’m currently studying ... </b></br>
-      Computer Science at Central Washington University.
-- 🧪 <b>I'm currently working on ... </b></br> 
-      My personal site.
-- 🧠 <b>I'm currently learning about ... </b></br>
-      frontend technologies, databases, and AWS.
-- 🔎 <b>I’m currently looking for ... </b></br>
-      Software Engineering internship for summer 2024.
-- ⚡ <b>Fun facts:</b> </br>
-      I like watching scientific movies.
-</div>
+    
+ 🎓 I’m currently studying at **Central Washington University**
+    
+ 🔭 I’m currently working on **Location based event discovery app**
+ 
+ 🧠 I’m currently learning **AWS**
 
+ 🔎 I’m currently looking for **Software Engineering internship for summer 2024**
+
+ ⚡ Fun fact ** I like watching scientific movies**
+
+ </div>
+ 
 
 <h5 align="center">
 <a align="center" href="https://www.linkedin.com/in/orchlonc/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
