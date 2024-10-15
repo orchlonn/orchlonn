@@ -1,13 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oscar!;" />
-</h1>
-<br/>
-
+<h5 align="center">
 <a align="center" href="https://www.linkedin.com/in/orchlonc/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
 <a href="https://www.leetcode.com/orchllnz" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
 <a align="center" href="https://www.instagram.com/orchlonnn/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
+</h5>
+
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" height="auto" />
  
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at Central Washington University.
