@@ -1,53 +1,75 @@
-# 👋 Hi there, I'm Oscar!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-I am a full-stack engineer currently studying at Central Washington University. My passion lies in building engaging and accessible digital experiences. I primarily work with JavaScript, TypeScript, React, React Native, Firebase, Node.js, and Tailwind CSS.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-## 🚀 Technologies & Skills
+<h3 align="center">A passionate software developer looking for a summer internship. </h3>
 
-- **Frontend:**
-  - JavaScript
-  - TypeScript
-  - React
-  - React Native
-  - Tailwind CSS
+<br/>
 
-- **Backend:**
-  - Node.js
-  - Firebase
+<div align="center">
+ 
+- 🎓 <b>I’m currently studying ... </b></br>
+      Computer Science at Central Washington University.
+- 🧪 <b>I'm currently working on ... </b></br> 
+      My personal site.
+- 🧠 <b>I'm currently learning about ... </b></br>
+      frontend technologies, databases, and AWS.
+- 🔎 <b>I’m currently looking for ... </b></br>
+      Software Engineering internship for summer 2024.
+- ⚡ <b>Fun facts:</b> </br>
+      I like watching scientific movies.
 
-- **Tools & Frameworks:**
-  - Git & GitHub
-  - npm/yarn
-  - Express.js (optional, if applicable)
-  - Other relevant libraries and tools
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ch.orchlon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/orchlonc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-## 🌱 Current Learning
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,react,firebase,mongodb,java,nextjs,mysql" /><br>
+</div>
 
-I'm continuously exploring new technologies and improving my skills in:
-- Advanced TypeScript features
-- State management in React (e.g., Redux, Context API)
-- Mobile app development with React Native
+<br/>
+<hr/>
 
-## 🎓 Education
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/orchlonn/orchlonn/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-**Central Washington University**  
-- Major: Business Administration (Finance and Accounting)  
-- Current Student
+<hr/>
 
-## 📫 Get in Touch
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=orchlonn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orchlonn" alt="most used languages" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=orchlonn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or check out my projects below!
+<br/><br/>
 
-## 🛠 Projects
+<hr/>
 
-- **[Your Project Name 1](https://github.com/your-github-username/your-project-1)**: A brief description of what this project does and the technologies used.
-- **[Your Project Name 2](https://github.com/your-github-username/your-project-2)**: A brief description of what this project does and the technologies used.
-- **[Your Project Name 3](https://github.com/your-github-username/your-project-3)**: A brief description of what this project does and the technologies used.
+<br/>
 
-## 📄 Resume
-
-You can download my resume [here](link-to-your-resume).
-
----
-
-Feel free to fork this repository or open issues if you have any questions or suggestions!
+<br/>
