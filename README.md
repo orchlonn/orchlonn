@@ -4,7 +4,6 @@
 <a align="center" href="https://www.instagram.com/orchlonnn/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
 </h5>
 
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" height="auto" />
  
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at Central Washington University.
