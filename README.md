@@ -6,7 +6,7 @@
     
  🎓 I’m currently studying at **Central Washington University**
     
- 🔭 I’m currently working on **Location based event discovery app**
+ 🔭 I’m currently working on **Video Service streaming side project**
  
  🧠 I’m currently learning **AWS**
 
