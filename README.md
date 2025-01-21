@@ -12,7 +12,6 @@
 
  🔎 I’m currently looking for **Software Engineering internship for summer 2024**
 
- ⚡ Fun fact **I like to watch scientific movies**
 
  </div>
  
